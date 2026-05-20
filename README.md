@@ -9,6 +9,8 @@ A library for creating a simple music player with a Tkinter-based GUI for the fr
 
 # 🛠️ Bugfix v1.0.3
 
+# This project is not supported anymore, see: https://github.com/YarosIshkov2005/YellowPather-Lite.git
+
 # 🚀 New Features:
 • Added if not isinstance() checks in the logger_mode and show_error_message methods to validate input data types.
 
