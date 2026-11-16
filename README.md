@@ -9,7 +9,7 @@ A library for creating a simple music player with a Tkinter-based GUI for the fr
 
 # 🛠️ Bugfix v1.0.3
 
-# This project is not supported anymore, see: https://github.com/YarosIshkov2005/YellowPather-Lite.git
+**This project is no longer supported, as a new one is being developed Holmium File Explorer: https://github.com/TermoRadiactiveCat/Holmium-File-Explorer.git**
 
 # 🚀 New Features:
 • Added if not isinstance() checks in the logger_mode and show_error_message methods to validate input data types.
@@ -38,7 +38,7 @@ Added description of the transition_track functionality:
 ## 📩 Installation:
 • Clone the repository:
   1. Clone the repository:
-   git clone https://github.com/YarosIshkov2005/NorthBastion.git
+   git clone https://github.com/TermoRadiactiveCat/NorthBastion.git
   2. cd NorthBastion
 
 ## 🚀 Quick Start (5 minutes):
@@ -420,7 +420,7 @@ Section 5: 📒 Links and Literature:
 - [Official Pygame Documentation](https://www.pygame.org/docs/).
 - [Pygame GitHub Repository](https://github.com/pygame/pygame).
 - [Pygame Support Forum](https://stackoverflow.com/questions/tagged/pygame).
-- [NorthBastion Documentation](https://github.com/YarosIskov/NorthBastion).
+- [NorthBastion Documentation](https://github.com/TermoRadiactiveCat/NorthBastion).
 
 # 📕 Literature:
 - Making Games with Python & Pygame: Al Sweigart.
@@ -430,5 +430,5 @@ Section 5: 📒 Links and Literature:
 - Invent Your Own Computer Games with Python: Al Sweigart.
 ***
 
-02/09/2025, YarosIskov2005, verrysillvereagle@gmail.com.
+02/09/2025, TermoRadiactiveCat, verrysillvereagle@gmail.com.
 [file content end]
